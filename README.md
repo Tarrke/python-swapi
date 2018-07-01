@@ -1,4 +1,4 @@
-# python-swapi
+# python-swapi
 
 Make use of [Star Wars API](https://swapi.co).
 
